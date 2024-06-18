@@ -1,0 +1,2 @@
+document.write ("Hola Mundo! ");
+// En esta linea de codigo le pedimos que lea el documento con el texto que introducimos que podria ser cualquier texto dento de las comillas, pero en este caso escribimos "Hola Mundo"

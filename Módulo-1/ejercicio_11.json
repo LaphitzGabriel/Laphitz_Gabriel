@@ -1,0 +1,43 @@
+{
+    "personas": [
+        {
+            "id_producto": 283,
+            "nombre": "Gafas de sol",
+            "Marca": "Acme",
+            "disponible": 20,
+            "precio": 9800,
+            "temporada": "Verano 2023"
+        },
+        {
+            "id_producto": 191,
+            "nombre": "Reloj deportivo",
+            "Marca": "Timer",
+            "disponible": 2,
+            "precio": 21400,
+            "Caracteristicas" :{
+            "color" : "plateado",
+            "material" : "goma y plastico" 
+            }
+        },    
+        {
+            "id_producto": 148,
+            "nombre": "Juego de medias",
+            "Marca": "Pieccito",
+            "disponible": 38,
+            "precio": 500,
+            "Caracteristicas" :{
+            "color" : "varios",
+            "material" : "Algodon"
+         }
+        },
+        {
+            "id_producto": 283,
+            "nombre": "Gafas de sol",
+            "Marca": "Acme",
+            "disponible": 20,
+            "precio": 9800,
+            "temporada": "Verano 2023"
+        }    
+        
+    ]
+}
